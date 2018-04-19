@@ -1,0 +1,10 @@
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\bin\Debug\WindowsFormsOddEvenNumber.exe.config
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\bin\Debug\WindowsFormsOddEvenNumber.exe
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\bin\Debug\WindowsFormsOddEvenNumber.pdb
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\obj\Debug\WindowsFormsOddEvenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\obj\Debug\WindowsFormsOddEvenNumber.OddEvenNumber.resources
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\obj\Debug\WindowsFormsOddEvenNumber.Properties.Resources.resources
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\obj\Debug\WindowsFormsOddEvenNumber.csproj.GenerateResource.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\obj\Debug\WindowsFormsOddEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\obj\Debug\WindowsFormsOddEvenNumber.exe
+C:\Users\Karolek\Documents\Visual Studio 2017\Projects\WindowsFormsOddEvenNumber\WindowsFormsOddEvenNumber\obj\Debug\WindowsFormsOddEvenNumber.pdb
